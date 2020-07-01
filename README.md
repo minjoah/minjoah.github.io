@@ -1,2 +1,2 @@
 # minjoah.github.io
-For my gitblog
+For my gitblog!
